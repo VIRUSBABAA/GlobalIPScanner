@@ -1,0 +1,6 @@
+requests
+tkinter  # usually comes with Python
+threading
+socket
+json
+csv
