@@ -31,7 +31,7 @@
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/RandomWebScanner.git
+git clone https://github.com/VIRUSBABAA/RandomWebScanner.git
 cd RandomWebScanner
 
 # Install required packages
